@@ -1,6 +1,6 @@
 # Core Node Warden-buenavista'daki "OTO faucet isteme" kısmının editlenmiş halidir.
 
-1) 
+1) ilk önce ```shell apt install screen ``` ile screen yoksa screen indirirn
 ```shell
 
 screen -S restart
