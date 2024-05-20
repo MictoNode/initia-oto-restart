@@ -9,7 +9,7 @@ screen -S restart
 2) 
 ```shell
 
-nano script.sh
+nano restart.sh
 
 ```
 3) Açılan yere alttakini yapıştır
@@ -32,13 +32,13 @@ done
 4) 
 ```shell
 
-chmod +x script.sh
+chmod +x restart.sh
 
 ```
 5) Çalıştırıyoruz
 ```shell
 
-./script.sh
+./restart.sh
 
 ```
 
